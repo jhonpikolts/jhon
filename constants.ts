@@ -9,7 +9,7 @@ export const CONTACT_INFO = {
   phoneDisplay: "(21) 99999-9999",
   
   // Links das redes sociais
-  instagram: "https://instagram.com/seu_usuario_aqui",
+  instagram: "https://instagram.com/nexosrefrigeracao",
   facebook: "https://facebook.com/seu_usuario_aqui",
 };
 
@@ -20,7 +20,7 @@ export const IMAGES = {
   // Imagens dos serviços
   services: {
     refrigeracao: "https://images.unsplash.com/photo-1571175443880-49e1d58b7948?q=75&w=600&auto=format&fit=crop",
-    lavanderia: "https://images.unsplash.com/photo-1626806775351-538af710221e?q=75&w=600&auto=format&fit=crop",
+    lavanderia: "https://unsplash.com/pt-br/fotografias/uma-mulher-esta-colocando-um-pano-em-um-secador-FYXAFsSCbXQ",
     climatizacao: "https://images.unsplash.com/photo-1614631446501-abcf7694973f?q=75&w=600&auto=format&fit=crop"
   }
 };
