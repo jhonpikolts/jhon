@@ -78,7 +78,7 @@ const FAQFooter: React.FC = () => {
             <div data-aos="fade-up" data-aos-delay="0">
               {/* Logo added here */}
               <img 
-                src="./logo.png" 
+                src="https://i.postimg.cc/V6Sb1y2y/IMG-20260131-195236-862.jpg" 
                 alt="Nexos Logo" 
                 className="w-20 h-20 rounded-full border-2 border-nexos-cyan shadow-[0_0_20px_rgba(34,211,238,0.3)] mb-6 object-cover bg-slate-900" 
               />
