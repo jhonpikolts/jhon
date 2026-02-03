@@ -19,8 +19,8 @@ export const IMAGES = {
   
   // Imagens dos serviços
   services: {
-    refrigeracao: "https://images.unsplash.com/photo-1571175443880-49e1d58b7948?q=75&w=600&auto=format&fit=crop",
-    lavanderia: "https://unsplash.com/pt-br/fotografias/uma-mulher-esta-colocando-um-pano-em-um-secador-FYXAFsSCbXQ",
-    climatizacao: "https://images.unsplash.com/photo-1614631446501-abcf7694973f?q=75&w=600&auto=format&fit=crop"
+    refrigeracao: "https://i.postimg.cc/1RN5c4Jc/03-Brastemp-Geladeira-BRM55FE-Imagem-3-4-3-4-png-2.png",
+    lavanderia: "https://i.postimg.cc/wTZMYLMS/raychan-vkp-VPc-IBU5U-unsplash.jpg",
+    climatizacao: "https://i.postimg.cc/3wR3ywkR/p-50769-alta-1.png"
   }
 };
