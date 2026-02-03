@@ -1,0 +1,83 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    
+    <!-- Título Principal (Aparece na aba do navegador e no Google) -->
+    <title>Nexos Refrigeração | Conserto de Geladeira e Máquina de Lavar RJ</title>
+    
+    <!-- Descrição para o Google (SEO) -->
+    <meta name="description" content="Assistência técnica especializada em Geladeiras e Máquinas de Lavar no Rio de Janeiro. Atendimento rápido, peças originais e garantia de 90 dias. Agende agora!" />
+    
+    <!-- Configurações para Redes Sociais (WhatsApp, Facebook, Instagram) -->
+    <meta property="og:type" content="website" />
+    <meta property="og:title" content="Nexos Refrigeração - Conserto Rápido no RJ" />
+    <meta property="og:description" content="Sua geladeira ou máquina parou? Técnicos certificados no RJ com visita imediata e pagamento facilitado." />
+    <meta property="og:image" content="https://images.unsplash.com/photo-1581092918056-0c4c3acd3789?q=80&w=1200&auto=format&fit=crop" />
+    <meta property="og:url" content="https://nexosrefrigeracao.com.br" />
+    
+    <!-- Ícone da aba (Favicon) -->
+    <link rel="icon" type="image/png" href="./logo.png" />
+
+    <!-- Tailwind CSS via CDN -->
+    <script src="https://cdn.tailwindcss.com"></script>
+    
+    <!-- Fonts -->
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;600;700;800&display=swap" rel="stylesheet">
+    
+    <!-- AOS Animation CSS -->
+    <link href="https://unpkg.com/aos@2.3.1/dist/aos.css" rel="stylesheet">
+    
+    <script>
+      tailwind.config = {
+        theme: {
+          extend: {
+            fontFamily: {
+              sans: ['Inter', 'sans-serif'],
+            },
+            colors: {
+              nexos: {
+                dark: '#0f172a',
+                blue: '#0ea5e9',
+                cyan: '#22d3ee',
+                accent: '#0284c7',
+              },
+              whatsapp: '#25D366',
+            }
+          }
+        }
+      }
+    </script>
+    <style>
+      html { scroll-behavior: smooth; }
+      .text-gradient {
+        background: linear-gradient(to right, #22d3ee, #0ea5e9);
+        -webkit-background-clip: text;
+        -webkit-text-fill-color: transparent;
+      }
+    </style>
+<script type="importmap">
+{
+  "imports": {
+    "@vitejs/plugin-react": "https://esm.sh/@vitejs/plugin-react@^5.1.3",
+    "react/": "https://esm.sh/react@^19.2.4/",
+    "react": "https://esm.sh/react@^19.2.4",
+    "lucide-react": "https://esm.sh/lucide-react@^0.563.0",
+    "react-dom/": "https://esm.sh/react-dom@^19.2.4/",
+    "vite": "https://esm.sh/vite@^7.3.1"
+  }
+}
+</script>
+<link rel="stylesheet" href="/index.css">
+</head>
+  <body>
+    <div id="root"></div>
+    
+    <!-- Scripts Externos -->
+    <script src="https://unpkg.com/aos@2.3.1/dist/aos.js"></script>
+    
+    <!-- Entry Point do React via Vite -->
+    <script type="module" src="/index.tsx"></script>
+  </body>
+</html>
