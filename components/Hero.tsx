@@ -10,7 +10,7 @@ const Hero: React.FC = () => {
         <img 
           src={IMAGES.heroBackground}
           alt="Técnico consertando geladeira" 
-          className="w-full h-full object-cover opacity-40"
+          className="w-full h-full object-cover opacity-10"
           width="1600"
           height="900"
           fetchPriority="high"
