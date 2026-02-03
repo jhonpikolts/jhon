@@ -8,7 +8,7 @@ const Services: React.FC = () => {
       id: 1,
       title: 'Refrigeração',
       subtitle: 'Geladeiras e Freezers',
-      description: 'Especialistas em Frost Free, Placa Fria, Side by Side e Freezers comerciais e residenciais.',
+      description: 'Especialistas em Frost Free, Placa Fria, Freezers residenciais.',
       icon: <Snowflake className="w-12 h-12 text-nexos-cyan" />,
       image: IMAGES.services.refrigeracao,
     },
