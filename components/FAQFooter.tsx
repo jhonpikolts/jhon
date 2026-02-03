@@ -147,7 +147,8 @@ const FAQFooter: React.FC = () => {
           </div>
 
           <div className="border-t border-slate-900 mt-16 pt-8 text-center text-xs text-slate-600">
-            <p>&copy; {new Date().getFullYear()} Nexos Refrigeração. Todos os direitos reservados.</p>
+            <p>&copy; {new Date().getFullYear()} Nexos Refrigeração. Todos os direitos reservados
+              Crie seu site com a Focus4k.</p>
           </div>
         </div>
       </footer>
