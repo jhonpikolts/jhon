@@ -108,7 +108,7 @@ const TrustSection: React.FC = () => {
                 {/* Simulated Dirty Image */}
                 <div className="relative h-full">
                   <img 
-                    src="https://images.unsplash.com/photo-1582735689369-4fe89db7114c?q=75&w=800&auto=format&fit=crop" 
+                    src="https://i.postimg.cc/y6QpBX97/6Rg2u3Zqw-TPmr63DBitl1-y-RMRt-Otv.jpg" 
                     alt="Máquina suja" 
                     className="h-full w-full object-cover grayscale brightness-50 contrast-125"
                     loading="lazy"
@@ -120,7 +120,7 @@ const TrustSection: React.FC = () => {
                 {/* Simulated Clean Image */}
                 <div className="relative h-full">
                   <img 
-                    src="https://images.unsplash.com/photo-1582735689369-4fe89db7114c?q=75&w=800&auto=format&fit=crop" 
+                    src="https://i.postimg.cc/TY50x8f7/Ww-Duc2ds-IZHpiud-Upag9s-n-Ox7HNVt.jpg" 
                     alt="Máquina limpa" 
                     className="h-full w-full object-cover brightness-110 saturate-125"
                     loading="lazy"
