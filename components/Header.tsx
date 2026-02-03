@@ -12,7 +12,7 @@ const Header: React.FC = () => {
         <div className="flex items-center space-x-3">
           {/* Logo Image - Certifique-se que logo.png está na pasta correta */}
           <img 
-            src="./logo.png" 
+            src="https://i.postimg.cc/fTfGsh82/IMG-20260131-195236-862.jpg" 
             alt="Nexos Logo" 
             className="w-12 h-12 rounded-full border border-nexos-cyan shadow-[0_0_15px_rgba(34,211,238,0.5)] object-cover bg-slate-800"
           />
