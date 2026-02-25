@@ -4,7 +4,7 @@ import { CONTACT_INFO } from '../constants';
 const FloatingWhatsApp: React.FC = () => {
   return (
     <a
-      href={`https://wa.me/${21971734511}?text=Olá,%20vi%20o%20site%20e%20preciso%20de%20um%20orçamento.`}
+      href={`https://wa.me/${5521971734511}?text=Olá,%20vi%20o%20site%20e%20preciso%20de%20um%20orçamento.`}
       target="_blank"
       rel="noreferrer"
       className="fixed bottom-6 right-6 z-50 flex items-center justify-center w-16 h-16 bg-whatsapp rounded-full shadow-[0_4px_20px_rgba(37,211,102,0.5)] hover:scale-110 transition-transform duration-300 animate-bounce group"
