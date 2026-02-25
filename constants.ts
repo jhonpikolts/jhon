@@ -3,14 +3,14 @@
 
 export const CONTACT_INFO = {
   // Número do WhatsApp (apenas números, com DDI 55 + DDD + Numero)
-  whatsappNumber: "5521999999999",
+  whatsappNumber: "5521971734511",
   
   // Como o telefone aparece escrito na tela
-  phoneDisplay: "(21) 99999-9999",
+  phoneDisplay: "(21) 97173-4511",
   
   // Links das redes sociais
   instagram: "https://instagram.com/nexosrefrigeracao",
-  facebook: "https://facebook.com/seu_usuario_aqui",
+  facebook: "https://facebook.com/share/1KrK1emfma/",
 };
 
 export const IMAGES = {
