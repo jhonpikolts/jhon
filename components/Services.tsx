@@ -72,7 +72,7 @@ const Services: React.FC = () => {
                   {service.description}
                 </p>
                 <a 
-                  href={`https://wa.me/${CONTACT_INFO.whatsappNumber}`} 
+                  href={`https://wa.me/${21971734511}`} 
                   className="inline-flex items-center text-nexos-accent font-bold hover:text-nexos-cyan transition-colors mt-auto"
                 >
                   Solicitar Orçamento <ArrowRight className="ml-2 w-4 h-4" />
