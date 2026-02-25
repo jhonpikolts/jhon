@@ -16,7 +16,7 @@ const Services: React.FC = () => {
       id: 2,
       title: 'Lavanderia',
       subtitle: 'Lavadoras e Lava e Seca',
-      description: 'Manutenção especializada em Brastemp, Samsung, LG, Electrolux e Consul. Troca de rolamentos e placas.',
+      description: 'Manutenção especializada em Brastemp, Samsung, LG, Electrolux e Consul. Troca de rolamentos, placas e etc...',
       icon: <Shirt className="w-12 h-12 text-nexos-cyan" />,
       image: IMAGES.services.lavanderia,
     },
@@ -72,7 +72,7 @@ const Services: React.FC = () => {
                   {service.description}
                 </p>
                 <a 
-                  href={`https://wa.me/${21971734511}`} 
+                  href={`https://wa.me/${5521971734511}`} 
                   className="inline-flex items-center text-nexos-accent font-bold hover:text-nexos-cyan transition-colors mt-auto"
                 >
                   Solicitar Orçamento <ArrowRight className="ml-2 w-4 h-4" />
