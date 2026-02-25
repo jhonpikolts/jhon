@@ -128,7 +128,7 @@ const FAQFooter: React.FC = () => {
                 
                 {/* TELEFONE via Constants */}
                 <a 
-                  href={`https://wa.me/${21971734511}`} 
+                  href={`https://wa.me/${5521971734511}`} 
                   className="text-2xl font-bold text-white hover:text-green-400 transition-colors block mb-3 tracking-wide"
                 >
                   {CONTACT_INFO.phoneDisplay}
