@@ -128,7 +128,7 @@ const FAQFooter: React.FC = () => {
                 
                 {/* TELEFONE via Constants */}
                 <a 
-                  href={`https://wa.me/${CONTACT_INFO.whatsappNumber}`} 
+                  href={`https://wa.me/${21971734511}`} 
                   className="text-2xl font-bold text-white hover:text-green-400 transition-colors block mb-3 tracking-wide"
                 >
                   {CONTACT_INFO.phoneDisplay}
@@ -148,7 +148,7 @@ const FAQFooter: React.FC = () => {
 
           <div className="border-t border-slate-900 mt-16 pt-8 text-center text-xs text-slate-600">
             <p>&copy; {new Date().getFullYear()} Nexos Refrigeração. Todos os direitos reservados
-              Crie seu site com a Focus4k.</p>
+            .</p>
           </div>
         </div>
       </footer>
