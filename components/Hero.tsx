@@ -59,7 +59,7 @@ const Hero: React.FC = () => {
             className="flex flex-col sm:flex-row gap-4"
           >
             <a 
-              href={`https://wa.me/${21971734511}?text=Olá,%20preciso%20de%20uma%20visita%20técnica%20hoje!`}
+              href={`https://wa.me/${5521971734511}?text=Olá,%20preciso%20de%20uma%20visita%20técnica%20hoje!`}
               target="_blank" 
               rel="noreferrer"
               className="group bg-whatsapp hover:bg-green-500 text-white text-lg font-bold py-4 px-8 rounded-lg shadow-[0_0_20px_rgba(37,211,102,0.4)] transition-all transform hover:-translate-y-1 flex items-center justify-center gap-3"
