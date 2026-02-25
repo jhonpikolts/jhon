@@ -31,7 +31,7 @@ const Header: React.FC = () => {
           <a href="#home" className="text-gray-300 hover:text-nexos-cyan transition-colors font-medium">Início</a>
           <a href="#services" className="text-gray-300 hover:text-nexos-cyan transition-colors font-medium">Serviços</a>
           <a href="#trust" className="text-gray-300 hover:text-nexos-cyan transition-colors font-medium">Sobre</a>
-          <a href={`tel:+${21971734511}`} className="bg-nexos-cyan text-nexos-dark px-4 py-2 rounded-md font-bold hover:bg-white transition-all shadow-lg flex items-center gap-2">
+          <a href={`tel:+${5521971734511}`} className="bg-nexos-cyan text-nexos-dark px-4 py-2 rounded-md font-bold hover:bg-white transition-all shadow-lg flex items-center gap-2">
             <Phone size={18} />
             Ligar Agora
           </a>
